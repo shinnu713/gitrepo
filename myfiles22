@@ -1,0 +1,4 @@
+hello to all
+yum install httpd -y
+yum install ansible -y
+yum install docker -y
